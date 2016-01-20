@@ -1,3 +1,9 @@
+mwbzutils (0.0.5~wmf1+trusty) trusty-wikimedia; urgency=medium
+
+  * Fix for corrupt data at end of files produced by recompressxml
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Wed, 20 Jan 2016 12:56:34 +0200
+
 mwbzutils (0.0.4-0~wmf1+trusty) trusty-wikimedia; urgency=medium
 
   * Initial Trusty version.

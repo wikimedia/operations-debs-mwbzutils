@@ -1,3 +1,12 @@
+mwbzutils (0.0.7~wmf1+trusty) trusty-wikimedia; urgency=medium
+
+  * bz2compress output files with names that end in .bz2.otherext
+  * Initialize bfile.marker properly to NULL
+  * Script to check whether page range of bz2 checkpoint file is correct
+  * New tool to display the last page or rev id in bz2 xml content file
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Thu, 19 Oct 2017 13:57:03 +0200
+
 mwbzutils (0.0.5~wmf1+trusty) trusty-wikimedia; urgency=medium
 
   * Fix for corrupt data at end of files produced by recompressxml

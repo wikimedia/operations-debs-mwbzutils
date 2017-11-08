@@ -5,12 +5,11 @@ If you are reading this file, you will have a local copy of the debian package
 or have retrieved the debian files via
 
   git clone https://gerrit.wikimedia.org/r/operations/debs/mwbzutils
-  or https://git.wikimedia.org/summary/operations%2Fdebs%2Fmwbzutils
 
 If you need to get the upstream source separately from this package,
 select the appropriate tag (currently mwbzutils_0.0.4) from here
 
-  https://git.wikimedia.org/summary/operations%2Fdumps.git
+  https://phabricator.wikimedia.org/source/operations-dumps/
 
 and then select the compression option of your choice to get the source.
 Cd into the directory xmldumps-backup/mwbzutils to build, patch, etc.

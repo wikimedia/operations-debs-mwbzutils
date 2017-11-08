@@ -5,8 +5,8 @@ Maintainer: Ariel T. Glenn <ariel@wikimedia.org>
 Build-Depends: debhelper (>= 8.0.0), libbz2-1.0, zlib1g
 Standards-Version: 3.9.2
 Homepage: https://www.mediawiki.org/wiki/Manual:Mwbzutils
-Vcs-Git: git clone https://gerrit.wikimedia.org/r/p/operations/dumps/mwbzutils.git
-Vcs-Browser: https://git.wikimedia.org/summary/operations%2Fdumps%2Fmwbzutils.git
+Vcs-Git: git clone https://gerrit.wikimedia.org/r/operations/dumps/mwbzutils
+Vcs-Browser: https://phabricator.wikimedia.org/source/operations-dumps-mwbzutils/
 
 Package: mwbzutils
 Architecture: amd64

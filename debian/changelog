@@ -1,3 +1,9 @@
+mwbzutils (0.0.7~wmf-2+stretch) stretch-wikimedia; urgency=medium
+
+  * Rebuild for stretch
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Thu, 28 Dec 2017 17:42:45 +0200
+
 mwbzutils (0.0.7~wmf1+trusty) trusty-wikimedia; urgency=medium
 
   * bz2compress output files with names that end in .bz2.otherext

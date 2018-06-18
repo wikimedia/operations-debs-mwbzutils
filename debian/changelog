@@ -1,3 +1,11 @@
+mwbzutils (0.0.8~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * writeuptopageid updated to write multiple output files
+  * input and output may be files given as command-line arguments
+  * bz2 now read, written
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Mon, 18 Jun 2018 12:38:26 +0200
+
 mwbzutils (0.0.7~wmf-2+stretch) stretch-wikimedia; urgency=medium
 
   * Rebuild for stretch

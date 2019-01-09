@@ -1,3 +1,11 @@
+mwbzutils (0.0.9~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * iohandlers used for common routines from recompressxml, writeuptopageid
+  * writeuptopageid, recompressxml option to skip xml header and/or footer
+  * recompressxml writing to stdout will only write plaintext (BREAKING CHANGE)
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Wed, 9 Jan 2018 10:48:40 +0200
+
 mwbzutils (0.0.8~wmf-1+stretch) stretch-wikimedia; urgency=medium
 
   * writeuptopageid updated to write multiple output files

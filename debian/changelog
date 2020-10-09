@@ -1,3 +1,10 @@
+mwbzutils (0.0.10~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * revsperpage new utility added
+  * writeuptopageid free without malloc fixed
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Fri, 9 Oct 2020 13:20:04 +0200
+
 mwbzutils (0.0.9~wmf-1+stretch) stretch-wikimedia; urgency=medium
 
   * iohandlers used for common routines from recompressxml, writeuptopageid

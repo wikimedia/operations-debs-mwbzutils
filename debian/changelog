@@ -1,3 +1,9 @@
+mwbzutils (0.0.11~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * revsperpage long ints used for revision byte counts
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Thu, 12 Nov 2020 17:15:13 +0200
+
 mwbzutils (0.0.10~wmf-1+stretch) stretch-wikimedia; urgency=medium
 
   * revsperpage new utility added

@@ -1,3 +1,17 @@
+mwbzutils (0.1.1~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * appendbz2 new util to create appndable bz2 content
+  * showcrcs new util to show bz2 file block crcs
+  * show_byte_aligned_crcs.py new script to show byte aligned bz2 file
+    block crcs
+  * split_bz2.py new script to split a bz2 file into parts by page range
+  * munge_crc_info.py new script to reformat showcrcs output and display
+    combined crcs
+  * basic tests for all C utils
+  * bug fixes for dumpbz2filefromoffset, writeuptopageid
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Fri, 27 Nov 2020 11:46:10 +0200
+
 mwbzutils (0.0.11~wmf-1+stretch) stretch-wikimedia; urgency=medium
 
   * revsperpage long ints used for revision byte counts

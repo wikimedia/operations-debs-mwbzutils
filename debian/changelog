@@ -1,3 +1,9 @@
+mwbzutils (0.1.2~wmf-1+stretch) stretch-wikimedia; urgency=medium
+
+  * dumplastbz2block read bz2 header when searching for blocks backwards
+
+ -- Ariel T. Glenn <ariel@wikimedia.org>  Mon, 21 Dec 2020 11:55:12 +0200
+
 mwbzutils (0.1.1~wmf-1+stretch) stretch-wikimedia; urgency=medium
 
   * appendbz2 new util to create appndable bz2 content
